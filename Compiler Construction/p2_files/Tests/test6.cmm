@@ -1,0 +1,42 @@
+# ./cmmc test.cmm -p
+
+int a;
+bool b;
+
+
+int mainT(){}
+
+int main(int argc, string argv)
+{
+  int f;
+  a = 5;
+  f = 5;
+  a++;
+  f--;
+  read a;
+  write 5;
+
+  if (1) {a = 0;}
+
+  if (2)
+  {
+    return;
+  }
+
+  else
+  {
+    return 0;
+  }
+
+  while (5 < a or b < 6)
+  {
+    a++;
+  }
+
+  myFunc(5);
+
+  myFunc(1, "string", true);
+
+  int c;
+  c = 5 + 5 - 5 * 5 / 5;
+}

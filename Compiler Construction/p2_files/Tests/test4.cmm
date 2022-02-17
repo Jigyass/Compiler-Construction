@@ -1,0 +1,15 @@
+int main(){
+
+
+
+if(a<b)
+{
+    int a;
+    a=420;
+}
+else 
+{
+    int a;
+    a=69;
+}
+}

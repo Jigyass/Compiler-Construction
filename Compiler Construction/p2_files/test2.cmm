@@ -1,0 +1,18 @@
+int main(){}
+
+
+int second(int a){}
+
+
+int third()
+{
+    int a;
+    string b;
+
+}
+
+int fourth(int a)
+{
+    int a;
+
+}
