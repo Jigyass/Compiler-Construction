@@ -1,7 +1,0 @@
-int a;
-a=b;
-a=69;
-a--;
-a++;
-return a;
-return a+b;
