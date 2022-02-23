@@ -19,6 +19,32 @@ class TypeNode;
 class StmtNode;
 class IDNode;
 
+class FnDeclNode;
+class AssignStmtNode;
+class ReadStmtNode;
+class WriteStmtNode;
+class PostDecStmtNode;
+class PostIncStmtNode;
+class IfStmtNode;
+class IfElseStmtNode;
+class WhileStmtNode;
+class ReturnStmtNode;
+class CallStmtNode;
+class CallExpNode;
+class IDNode;
+class BinaryExpNode;
+class PlusNode;
+class MinusNode;
+class IndexNode;
+class UnaryExpNode;
+class DerefNode;
+class NotNode;
+class NegNode;
+class IntTypeNode;
+class PtrTypeNode;
+class AssignExpNode;
+class LiteralNode;
+
 /** 
 * \class ASTNode
 * Base class for all other AST Node types
